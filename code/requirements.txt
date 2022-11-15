@@ -4,3 +4,4 @@ tqdm>=4.29.1
 torch>=1.0.0
 numpy>=1.16.0
 scikit_learn>=0.21.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
